@@ -45,6 +45,8 @@ Download The NextCloud and MySQL image from https://hub.docker.com using
     
     docker pull owncloud:latest
     docker pull mysql:5.7 
+![img00](https://github.com/rohitg00/OWnCloud-Docker-Compose-IIEC_RISE-Project/blob/master/owncloud%20pull.png)
+![img000](https://github.com/rohitg00/OWnCloud-Docker-Compose-IIEC_RISE-Project/blob/master/mysql%20pull.png)
 commands.
  ## MySQL setup
 Write a command 
@@ -63,6 +65,7 @@ You can create/edit your docker-compose file using
     
     vim docker-compose.yml
 The file name should always be docker-compose.yml
+![img0](https://github.com/rohitg00/OWnCloud-Docker-Compose-IIEC_RISE-Project/blob/master/compose%20install.png)
 ## Usage
 
 Open a terminal and `cd` to the folder in which `docker-compose.yml` is saved and run:-
@@ -73,8 +76,10 @@ docker-compose up
 Hola!, Everything is Set now the containers are now built and running. You should be able to access the WordPress installation with the configured IP in the windows browser address by `http://192.168.xx.xx:8081` and for linux OS `http://172.1x.x.x:8081`.[Change it accordingly]
 
 ## Here is an instance of my ownCloud server webssite which I built using this repo:- 
-![img1]()
-![img2]()
+![img1](https://github.com/rohitg00/OWnCloud-Docker-Compose-IIEC_RISE-Project/blob/master/owncloud%20with%20server.png
+)
+![img2](https://github.com/rohitg00/OWnCloud-Docker-Compose-IIEC_RISE-Project/blob/master/owncloud%20sp.png
+)
 
 ### Fore more reference on docker-compose 
 
