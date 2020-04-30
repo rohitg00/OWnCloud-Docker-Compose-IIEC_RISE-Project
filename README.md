@@ -117,8 +117,5 @@ Linux firewall won't allow to connect to MySQL database server and to outside wo
 ## Author
 [**Rohit Ghumare**](https://github.com/rohitg00)
 
-# License
-[MIT]()
-
 # About
 This is a docker project built for need of automation and maintaining the server database in cases when local system crashes, Docker is too fast in building OS i.e. in few seconds this will help owncloud to maintain file storage safe.
