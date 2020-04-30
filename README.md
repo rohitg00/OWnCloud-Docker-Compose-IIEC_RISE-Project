@@ -10,7 +10,7 @@ With this repo you can Automatically:-
 ## Built with
 - RedHat Linux RHEL8
 - Docker
-- Worpress
+- owncloud
 - MYSQl
 
 ## Requirements/Installation
