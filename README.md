@@ -95,7 +95,7 @@ docker-compose start
 docker-compose stop
 ```
    #### Volumes : 
-All our data will be permanent if we mount a volume to the folders where NextCloud and MySQL stores data. The data will remain permanent if any of the container terminates. For that you have to create volumes first. 
+All our data will be permanent if we mount a volume to the folders where OwnCloud and MySQL stores data. The data will remain permanent if any of the container terminates. For that you have to create volumes first. 
    #### Depends_on : 
 OwnCloud uses database server. We have to specify which database container it should depend on.
    #### Ports : 
