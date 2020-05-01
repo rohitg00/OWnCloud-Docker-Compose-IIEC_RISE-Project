@@ -22,7 +22,7 @@ sudo apt-get update
 sudo apt-get remove docker docker-engine docker.io
 sudo apt install docker.io
 ```
-## For Dcocker Installation on RedHAt/Centos:
+## For Docker Installation on RedHAt/Centos:
 - Configure yum by adding ***docker.repo and dvd.repo*** inside the `/etc/yum.repos.d` for local installation using  https://download.docker.com/linux/centos/docker-ce.repo   
 - Now, run command `yum install docker-ce --nobest`
 
