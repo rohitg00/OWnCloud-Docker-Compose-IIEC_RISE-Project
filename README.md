@@ -101,7 +101,7 @@ NextCloud uses database server. We have to specify which database container it s
    #### Ports : 
 To expose our container to outside world by using PAT.
    
-   ## H) Troubleshooting the errors
+   ## Troubleshooting the errors
 Linux firewall won't allow to connect to MySQL database server and to outside world. Hence following commands should be implemented first in order to connect to server.
 ```
 - selinux 0
